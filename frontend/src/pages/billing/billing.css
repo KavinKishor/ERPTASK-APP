@@ -1,0 +1,30 @@
+.bill_page{
+    background: #f5f5f5;
+    width: 1000px;
+    height: 100vh;
+    margin-left: 100px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: darkcyan;
+    margin: 20px;
+}
+.number_date{
+   margin-left: 450px;
+}
+.table_bill{
+    width: 900px;
+}
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+}
+.style{
+    outline: none;
+    border: none;
+}
